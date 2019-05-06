@@ -14,8 +14,8 @@ $(function () {
     var colorOut = '#fff';       //color when the mouse is not over
     var scale = 1;             //scale value
 
-    var mapInitWidth=825;        //initial map width
-    var mapInitHeight=800;       //initial map height
+    var mapInitWidth=966;        //initial map width
+    var mapInitHeight=560;       //initial map height
 
     var textInitWidth = 250;     //initial text width
 
